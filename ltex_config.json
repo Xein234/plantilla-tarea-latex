@@ -1,0 +1,12 @@
+{
+  "latex.environments": {
+    "IEEEeqnarray*": "ignore",
+    "unit": "ignore"
+  },
+  "language": "es",
+  "dictionary": {
+    "es": []
+  },
+  "disabledRules": {},
+  "hiddenFalsePositives": {}
+}
