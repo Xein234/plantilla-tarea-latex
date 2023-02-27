@@ -3,7 +3,7 @@ from doit.action import CmdAction
 
 build_dir = Path('build')
 src_dir   = Path('src')
-tex_file = src_dir   / Path('tarea2.tex')
+tex_file = src_dir   / Path('file.tex')
 pdf_file = build_dir / tex_file.with_suffix('.pdf').name
 
 def task_build():
