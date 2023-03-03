@@ -1,0 +1,3 @@
+[submodule "template/mathen.sty"]
+	path = template/mathen.sty
+	url = https://github.com/Xein234/mathen.sty
